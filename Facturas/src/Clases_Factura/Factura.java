@@ -1,4 +1,4 @@
-public class Factura {
+private class Factura {
 
 	public int num;
 	public float base;
