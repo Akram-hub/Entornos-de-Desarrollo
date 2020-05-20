@@ -6,18 +6,20 @@ private class Factura implements IFactura{
 	protected Estados estado;
 	
 	public void static main(String[] args) {
+		
+	}
+	public void cambiarEstado(Estados estado) {
 
-	cambiarEstado(Aprobada) {
+	}
+
+	public float getTotal() {
+
+	}
+
+	public float getCantidadIva() {
+
+	}
+	}
 	
-	}
 
-	getTotal() {
-
-	}
-
-	getCantidadIva() {
-
-	}
-
-	}
-}
+	
